@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "name": "villatown-crm",
+  "routes": [
+    { "src": "/(.*)", "dest": "/index.html" }
+  ]
+}
